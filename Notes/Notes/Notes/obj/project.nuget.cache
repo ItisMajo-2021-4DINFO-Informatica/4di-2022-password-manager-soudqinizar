@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DSYJXM0p2b4TGVhe1UOrPSKqwjf2GFB0oSQppwWRrqpMsElPfHmdVIYgisL8uGLSbEp1GmrPVAssn0clTcrWhg==",
+  "dgSpecHash": "tRt2ZzlC85CcTJdiLxWwGwRzA/MPNh7bLWwHXSUSNIgq6MAWNh1JzKOqYQZBEqQkZxdjQCaBYLfNRfWKzpAR0g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Utente\\Desktop\\Notes\\Notes\\Notes\\Notes.csproj",
+  "projectFilePath": "C:\\Users\\Utente\\Desktop\\4di-2022-password-manager-soudqinizar\\Notes\\Notes\\Notes\\Notes.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

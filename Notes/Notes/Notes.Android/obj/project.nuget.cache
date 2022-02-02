@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DOig8oLFRm7owW1E+wugxol86/yM+oScE2whxFiEYmqXrPFljaf3Txz88G6bj6vHKhB4AxQMDunmv79qby/Paw==",
+  "dgSpecHash": "zrGa6CHIMKFTa8GRe2s7YVkRfelFnrCFZgIr/NidA7g03tGRTdekFeadGim2GeQNStwTrO3lVNPkJVu99do/Dw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Utente\\Desktop\\Notes\\Notes\\Notes.Android\\Notes.Android.csproj",
+  "projectFilePath": "C:\\Users\\Utente\\Desktop\\4di-2022-password-manager-soudqinizar\\Notes\\Notes\\Notes.Android\\Notes.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Utente\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
     "C:\\Users\\Utente\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
