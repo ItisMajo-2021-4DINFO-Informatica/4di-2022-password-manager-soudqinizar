@@ -7,15 +7,19 @@
     <StackLayout Margin="20">
         <Editor Placeholder="ServiceName"
                 Text="{Binding ServiceName}"
+                TextColor="Black"
                 HeightRequest="100" />
         <Editor Placeholder="Username"
                 Text="{Binding Username}"
+                TextColor="Black"
                 HeightRequest="100" />
         <Editor Placeholder="Password"
                 Text="{Binding Password}"
+                TextColor="Black"
                 HeightRequest="100" />
         <Editor Placeholder="URL"
                 Text="{Binding URL}"
+                TextColor="Black"
                 HeightRequest="100" />
         <!-- Layout children in two columns -->
         <Grid ColumnDefinitions="*,*">
