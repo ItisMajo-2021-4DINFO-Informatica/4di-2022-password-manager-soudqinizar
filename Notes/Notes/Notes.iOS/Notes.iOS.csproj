@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">iPhoneSimulator</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{6FC11C6A-05A1-4D96-87EC-8BBA3838E310}</ProjectGuid>
+    <ProjectGuid>{4AA35169-56F1-4D9D-8E42-16BBB12A4999}</ProjectGuid>
     <ProjectTypeGuids>{FEACFBD2-3405-455C-9665-78FE426C6842};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <TemplateGuid>{89a4fe7c-635d-49c9-8d8c-5cd363c0d68d}</TemplateGuid>
     <OutputType>Exe</OutputType>
@@ -132,16 +132,13 @@
     <Reference Include="System.Numerics.Vectors" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="sqlite-net-pcl">
-      <Version>1.8.116</Version>
-    </PackageReference>
     <PackageReference Include="Xamarin.Forms" Version="5.0.0.2012" />
     <PackageReference Include="Xamarin.Essentials" Version="1.6.1" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
     <ProjectReference Include="..\Notes\Notes.csproj">
-      <Project>{5B8D29A8-6EAE-403C-8A84-15B576B72682}</Project>
+      <Project>{2E20D9E8-3755-437F-B8A3-BEE62FB466A3}</Project>
       <Name>Notes</Name>
     </ProjectReference>
   </ItemGroup>

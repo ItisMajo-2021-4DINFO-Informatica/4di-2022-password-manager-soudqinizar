@@ -1,17 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "2BzQihGyeGe4EQZoA7w0htSB9cR19biUX0OT+yuT/J02JSwE5G2qPZwxPWue7GJB+HjtPaDTC0KuT9vKUchQdw==",
+  "dgSpecHash": "dtE8olZF7w2I9jYLpibMlU1jljjiKcOYRRMwYjTn/u2EfLQLpJurm2fZvVWHICouRSeCBs90jIxPRf0vmBuVDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Utente\\Desktop\\4di-2022-password-manager-soudqinizar\\Notes\\Notes\\Notes.iOS\\Notes.iOS.csproj",
+  "projectFilePath": "C:\\Users\\Utente\\Desktop\\Notes\\Notes\\Notes.iOS\\Notes.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Utente\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
-    "C:\\Users\\Utente\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
-    "C:\\Users\\Utente\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
-    "C:\\Users\\Utente\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.4\\sqlitepclraw.provider.dynamic_cdecl.2.0.4.nupkg.sha512",
-    "C:\\Users\\Utente\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
-    "C:\\Users\\Utente\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\Utente\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\Utente\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
   ],
