@@ -2,7 +2,8 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Notes.Views.NotesPage"
-             Title="Password Manager">
+             Title="Password Manager"
+             BackgroundColor="LightGray">
     <!-- Add an item to the toolbar -->
     <ContentPage.ToolbarItems>
         <ToolbarItem Text="Aggiungi"
@@ -23,9 +24,10 @@
             <DataTemplate>
                 <StackLayout>
                     <Label Text="{Binding ServiceName}"
+                           TextColor="Black"
                            FontSize="Medium"/>
                     <Label Text="{Binding Date}"
-                           TextColor="Silver"
+                           TextColor="#08457E"
                            FontSize="Small" />
                 </StackLayout>
             </DataTemplate>

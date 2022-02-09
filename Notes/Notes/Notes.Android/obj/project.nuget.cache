@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Pag5vAerm1AkVExOPC+5K+Hg7ZBsUL3q9Fe0CDIkOwSBTIcRbUqkGLxUITspG9TqU+Vx4kMmWd5El4tUBtX6Dw==",
+  "dgSpecHash": "RJxxGcgUhg+WSsHDxj0wvDNq07RLhHfmCpN0lRKcBB/gI1t4WrnDwKHgwx6KwKeUiYAzUIA67sqZOLihu+8Exw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\soudq\\Downloads\\4di-2022-password-manager-soudqinizar-main\\Notes\\Notes\\Notes.Android\\Notes.Android.csproj",
+  "projectFilePath": "C:\\Users\\soudq\\Desktop\\Notes\\Notes\\Notes.Android\\Notes.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\soudq\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",

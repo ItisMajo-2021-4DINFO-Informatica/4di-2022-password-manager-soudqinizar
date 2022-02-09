@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ikybaSqTaSD99AIQCXixlln7XgZw2gbmMzGz59gg70BCmaTYU0DbMZ1t1I9C6gCF6i+li2o5azJBvg7NULE71w==",
+  "dgSpecHash": "8o5JA3XC5kuf4xjCAl8ntLiTKcp73S4BlV8x+Nk2K0I/Yn9vm4yZeGgae5Hm4i0jtUCFSSy8Z9ZO4ilfO1SS4A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\soudq\\Downloads\\4di-2022-password-manager-soudqinizar-main\\Notes\\Notes\\Notes\\Notes.csproj",
+  "projectFilePath": "C:\\Users\\soudq\\Desktop\\Notes\\Notes\\Notes\\Notes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\soudq\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\soudq\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

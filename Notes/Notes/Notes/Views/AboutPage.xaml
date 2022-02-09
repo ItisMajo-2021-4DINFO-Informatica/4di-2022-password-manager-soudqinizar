@@ -2,13 +2,14 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Notes.Views.AboutPage"
-             Title="Più informazioni">
+             Title="Più informazioni"
+             BackgroundColor="LightGray">
     <!-- Layout children in two rows -->
     <Grid RowDefinitions="Auto,*">
         <Image Source="xamarin_logo.png"
                BackgroundColor="{OnPlatform iOS=LightSlateGray, Android=#2196F3}"
                VerticalOptions="Center"
-               HeightRequest="64" />
+               HeightRequest="100" />
         <!-- Layout children vertically -->
         <StackLayout Grid.Row="1"
                      Margin="20"
@@ -18,14 +19,17 @@
                     <FormattedString>
                         <FormattedString.Spans>
                             <Span Text="Password Manager"
+                                  TextColor="#08457E"
                                   FontAttributes="Bold"
                                   FontSize="22" />
-                            <Span Text=" by Soudqi Nizar" />
+                            <Span Text=" by Soudqi Nizar"
+                                  TextColor="#08457E"/>
                         </FormattedString.Spans>
                     </FormattedString>
                 </Label.FormattedText>
             </Label>
-            <Label Text="Quest'applicazione è stata realizzata utilizzando la piattaforma Xamarin e i linguaggi XAML e C#." />
+            <Label Text="Quest'applicazione è stata realizzata utilizzando la piattaforma Xamarin e i linguaggi XAML e C#."
+                   TextColor="Red"/>
             <Button Text="Scopri di più"
                     Clicked="OnButtonClicked" />
         </StackLayout>
