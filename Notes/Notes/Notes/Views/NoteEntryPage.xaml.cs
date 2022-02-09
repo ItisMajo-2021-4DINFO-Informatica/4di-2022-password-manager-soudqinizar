@@ -1,6 +1,5 @@
 ﻿using System;
 using System.IO;
-using System.Text;
 using Notes.Models;
 using Xamarin.Forms;
 
@@ -49,16 +48,9 @@ namespace Notes.Views
             }
         }
 
-
-
-
-        
-
-
         async void OnSaveButtonClicked(object sender, EventArgs e)
         {
             var note = (Note)BindingContext;
-
 
             if (string.IsNullOrWhiteSpace(note.Filename))
             {

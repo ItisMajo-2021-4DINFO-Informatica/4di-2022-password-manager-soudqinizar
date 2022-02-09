@@ -2,7 +2,7 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Notes.Views.NoteEntryPage"
-             Title="Salva Password">
+             Title="Password Manager">
     <!-- Layout children vertically -->
     <StackLayout Margin="20">
         <Editor Placeholder="Nome Servizio"
@@ -24,12 +24,14 @@
         <!-- Layout children in two columns -->
         <Grid ColumnDefinitions="*,*">
             <Button Text="Salva"
-                    Clicked="OnSaveButtonClicked" />
+                    Clicked="OnSaveButtonClicked" 
+                    BackgroundColor="Black"
+                    TextColor="White"/>
             <Button Grid.Column="1"
                     Text="Elimina"
-                    Clicked="OnDeleteButtonClicked"/>
-            <Button Text="Genera Password"
-                      Clicked="GeneraPassword"/>
+                    Clicked="OnDeleteButtonClicked"
+                    BackgroundColor="Black"
+                    TextColor="White"/>
         </Grid>
     </StackLayout>
 </ContentPage>

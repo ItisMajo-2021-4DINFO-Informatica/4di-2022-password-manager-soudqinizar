@@ -25,7 +25,7 @@
                     </FormattedString>
                 </Label.FormattedText>
             </Label>
-            <Label Text="Quest'applicazione è stata scritta in C# e XAML attraverso l'uso della piattaforma XAMARIN" />
+            <Label Text="Quest'applicazione è stata realizzata utilizzando la piattaforma Xamarin e i linguaggi XAML e C#." />
             <Button Text="Scopri di più"
                     Clicked="OnButtonClicked" />
         </StackLayout>
