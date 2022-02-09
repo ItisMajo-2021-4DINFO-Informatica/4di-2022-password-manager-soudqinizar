@@ -17,16 +17,16 @@
                 <Label.FormattedText>
                     <FormattedString>
                         <FormattedString.Spans>
-                            <Span Text="Notes"
+                            <Span Text="Password Manager"
                                   FontAttributes="Bold"
                                   FontSize="22" />
-                            <Span Text=" v1.0" />
+                            <Span Text=" by Soudqi Nizar" />
                         </FormattedString.Spans>
                     </FormattedString>
                 </Label.FormattedText>
             </Label>
-            <Label Text="This app is written in XAML and C# with the Xamarin Platform." />
-            <Button Text="Learn more"
+            <Label Text="Quest'applicazione è stata scritta in C# e XAML attraverso l'uso della piattaforma XAMARIN" />
+            <Button Text="Scopri di più"
                     Clicked="OnButtonClicked" />
         </StackLayout>
     </Grid>
