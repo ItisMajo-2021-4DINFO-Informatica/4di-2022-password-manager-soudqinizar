@@ -15,6 +15,7 @@
                 HeightRequest="100" />
         <Editor Placeholder="Password"
                 Text="{Binding Password}"
+                x:Name="password"
                 TextColor="Black"
                 HeightRequest="100" />
         <Editor Placeholder="URL"
@@ -22,16 +23,16 @@
                 TextColor="Black"
                 HeightRequest="100" />
         <!-- Layout children in two columns -->
+        <Grid ColumnDefinitions="*">
+            <Button Text="Genera Password" 
+                    Clicked="CreatePassword" />
+        </Grid>
         <Grid ColumnDefinitions="*,*">
-            <Button Text="Salva"
-                    Clicked="OnSaveButtonClicked" 
-                    BackgroundColor="Black"
-                    TextColor="White"/>
+            <Button Text="Salva" Grid.Column="0"
+                    Clicked="OnSaveButtonClicked"/>
             <Button Grid.Column="1"
                     Text="Elimina"
-                    Clicked="OnDeleteButtonClicked"
-                    BackgroundColor="Black"
-                    TextColor="White"/>
+                    Clicked="OnDeleteButtonClicked" />
         </Grid>
     </StackLayout>
 </ContentPage>

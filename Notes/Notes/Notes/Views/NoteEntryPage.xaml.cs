@@ -1,5 +1,6 @@
 ﻿using System;
 using System.IO;
+using System.Text;
 using Notes.Models;
 using Xamarin.Forms;
 
@@ -75,6 +76,26 @@ namespace Notes.Views
             // Navigate backwards
             await Shell.Current.GoToAsync("..");
         }
+
+
+
+        void CreatePassword(object sender, EventArgs e)
+        {
+            const string caratteri = "abcdefghijklmnopqursuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ123456789";
+
+            char[] generator = new char[11];
+            string charSet = string.Empty;
+            Random rnd = new Random();
+            charSet = charSet + caratteri;
+
+            for (int length = 0; length < 11; length++)
+            {
+                generator[length] = charSet[rnd.Next(charSet.Length - 1)];
+            }
+
+            password.Text = String.Join(null, generator);
+        }
+
 
         async void OnDeleteButtonClicked(object sender, EventArgs e)
         {
