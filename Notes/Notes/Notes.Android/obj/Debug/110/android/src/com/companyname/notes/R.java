@@ -7003,8 +7003,9 @@ public final class R {
   }
   public static final class mipmap {
     public static final int icon=0x7f0c0000;
-    public static final int icon_round=0x7f0c0001;
-    public static final int launcher_foreground=0x7f0c0002;
+    public static final int icon10=0x7f0c0001;
+    public static final int icon_round=0x7f0c0002;
+    public static final int launcher_foreground=0x7f0c0003;
   }
   public static final class plurals {
     public static final int mtrl_badge_content_description=0x7f0d0000;

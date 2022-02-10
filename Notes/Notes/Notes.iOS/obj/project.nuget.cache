@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "GCsdS/12gvNiSZmiAs06q/TqXQH60awpJxDghI1KnG5HqWXvOsHQvdzLTbJBWjBN4O07HDlHyM8aXjcxi2Ptng==",
+  "dgSpecHash": "YZ7wfBoCWX/pCR+LDvyTOqxrlHdgdXXaKr8EkFy6TFWs1fyS0+uLDJNK7VrbFqbRy0bU8TBHg85Ni5fhHBI/Vw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\soudq\\Desktop\\Notes\\Notes\\Notes.iOS\\Notes.iOS.csproj",
+  "projectFilePath": "C:\\Users\\Utente\\Desktop\\4di-2022-password-manager-soudqinizar\\Notes\\Notes\\Notes.iOS\\Notes.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\soudq\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\soudq\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\Utente\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
   ],
   "logs": []

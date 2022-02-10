@@ -612,7 +612,6 @@ C:\Users\Utente\Desktop\4di-2022-password-manager-soudqinizar\Notes\Notes\Notes.
 C:\Users\Utente\Desktop\4di-2022-password-manager-soudqinizar\Notes\Notes\Notes.Android\obj\Debug\110\R.txt
 C:\Users\Utente\Desktop\4di-2022-password-manager-soudqinizar\Notes\Notes\Notes.Android\obj\Debug\110\R.cs.flag
 C:\Users\Utente\Desktop\4di-2022-password-manager-soudqinizar\Notes\Notes\Notes.Android\obj\Debug\110\Notes.Android.csproj.CoreCompileInputs.cache
-C:\Users\Utente\Desktop\4di-2022-password-manager-soudqinizar\Notes\Notes\Notes.Android\obj\Debug\110\Notes.Android.csproj.CopyComplete
 C:\Users\Utente\Desktop\4di-2022-password-manager-soudqinizar\Notes\Notes\Notes.Android\obj\Debug\110\Notes.Android.dll
 C:\Users\Utente\Desktop\4di-2022-password-manager-soudqinizar\Notes\Notes\Notes.Android\obj\Debug\110\Notes.Android.pdb
 C:\Users\Utente\Desktop\4di-2022-password-manager-soudqinizar\Notes\Notes\Notes.Android\obj\Debug\110\android\bin\com.companyname.notes.apk
@@ -2314,3 +2313,8 @@ C:\Users\soudq\Desktop\Notes\Notes\Notes.Android\obj\Debug\110\stamp\_ConvertRes
 C:\Users\soudq\Desktop\Notes\Notes\Notes.Android\obj\Debug\110\stamp\_GenerateJavaStubs.stamp
 C:\Users\soudq\Desktop\Notes\Notes\Notes.Android\obj\Debug\110\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\soudq\Desktop\Notes\Notes\Notes.Android\obj\Debug\110\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\Utente\Desktop\4di-2022-password-manager-soudqinizar\Notes\Notes\Notes.Android\obj\Debug\110\res\mipmap-hdpi\icon10.png
+C:\Users\Utente\Desktop\4di-2022-password-manager-soudqinizar\Notes\Notes\Notes.Android\obj\Debug\110\res\mipmap-mdpi\icon10.png
+C:\Users\Utente\Desktop\4di-2022-password-manager-soudqinizar\Notes\Notes\Notes.Android\obj\Debug\110\res\mipmap-xhdpi\icon10.png
+C:\Users\Utente\Desktop\4di-2022-password-manager-soudqinizar\Notes\Notes\Notes.Android\obj\Debug\110\res\mipmap-xxhdpi\icon10.png
+C:\Users\Utente\Desktop\4di-2022-password-manager-soudqinizar\Notes\Notes\Notes.Android\obj\Debug\110\res\mipmap-xxxhdpi\icon10.png

@@ -9,7 +9,7 @@
         <ShellContent Title="Password"
                       Icon="icon_feed.png"
                       ContentTemplate="{DataTemplate views:NotesPage}" />
-        <ShellContent Title="About"
+        <ShellContent Title="Più informazioni"
                       Icon="icon_about.png"
                       ContentTemplate="{DataTemplate views:AboutPage}" />
     </TabBar>
