@@ -30,7 +30,7 @@
             </Label>
             <Label Text="Quest'applicazione è stata realizzata utilizzando la piattaforma Xamarin e i linguaggi XAML e C#."
                    TextColor="Red"/>
-            <Button Text="Scopri di più"
+            <Button Text="Visita il mio profilo"
                     Clicked="OnButtonClicked" />
         </StackLayout>
     </Grid>

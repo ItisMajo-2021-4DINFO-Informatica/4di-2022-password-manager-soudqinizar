@@ -2318,3 +2318,4 @@ C:\Users\Utente\Desktop\4di-2022-password-manager-soudqinizar\Notes\Notes\Notes.
 C:\Users\Utente\Desktop\4di-2022-password-manager-soudqinizar\Notes\Notes\Notes.Android\obj\Debug\110\res\mipmap-xhdpi\icon10.png
 C:\Users\Utente\Desktop\4di-2022-password-manager-soudqinizar\Notes\Notes\Notes.Android\obj\Debug\110\res\mipmap-xxhdpi\icon10.png
 C:\Users\Utente\Desktop\4di-2022-password-manager-soudqinizar\Notes\Notes\Notes.Android\obj\Debug\110\res\mipmap-xxxhdpi\icon10.png
+C:\Users\Utente\Desktop\4di-2022-password-manager-soudqinizar\Notes\Notes\Notes.Android\obj\Debug\110\Notes.Android.csproj.CopyComplete
